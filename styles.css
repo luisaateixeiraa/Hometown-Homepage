@@ -24,7 +24,7 @@ img {
 }
 
 .hero-section {
-    padding: 420px 0;
+    padding: 200px 0;
     background-image: url("images/porto-city.jpg");
     background-size: cover;
     color:#FFE1A8;
@@ -51,7 +51,7 @@ img {
 #tower, #lello, #beach {
     max-width: 100%;
     border: 1px solid #472D30;
-    border-radius: 10%;
+    border-radius: 50%;
     box-shadow: 1px 5px 10px #723D46;
 }
 
@@ -71,9 +71,14 @@ img {
     align-items: center;
 }
 
-#popular, #sport {
+#popular {
     width: 50%;
-    box-shadow: 1px 5px 10px #723D46;
+    box-shadow: 2px 6px 10px #723D46;
+}
+
+#sport {
+    width: 50%;
+    box-shadow: -2px -5px 10px #723D46;
 }
 
 .text-festival, .text-sports {
