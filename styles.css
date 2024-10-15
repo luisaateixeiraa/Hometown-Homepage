@@ -54,7 +54,7 @@ img {
 }
 
 #tower, #lello, #beach {
-    max-width: 100%;
+    max-width: 80%;
     border: 1px solid #472D30;
     border-radius: 50%;
     box-shadow: 1px 5px 10px #723D46;
@@ -96,7 +96,7 @@ a {
 
 .guide-section {
     margin: 60px auto;
-    max-width: 100%;
+    max-width: 85%;
     width: 400px;
     padding-top: 20px;
     padding-left: 30px;
