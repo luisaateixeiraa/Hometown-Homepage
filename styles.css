@@ -23,6 +23,7 @@ img {
     width: 400px;
 }
 
+/*using background image for project personal/educational only: https://best-wallpaper.net/Portugal-Porto-river-bridge-city-morning_wallpapers.html */
 .hero-section {
     padding: 200px 0;
     background-image: url("images/porto-city.jpg");
