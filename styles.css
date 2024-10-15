@@ -20,12 +20,13 @@ body {
 }
 
 img {
-    width: 400px;
+    width: 420px;
 }
 
 /*using background image for project personal/educational only: https://best-wallpaper.net/Portugal-Porto-river-bridge-city-morning_wallpapers.html */
 .hero-section {
-    padding: 200px 0;
+    max-width: 100%;
+    padding: 150px 0;
     background-image: url("images/porto-city.jpg");
     background-size: cover;
     color:#FFE1A8;
@@ -34,6 +35,7 @@ img {
 }
 
 .activities-section {
+    max-width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 30px;
